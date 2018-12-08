@@ -1,4 +1,4 @@
-export default interface IThemeInterface {
-  primaryColor: string;
-  primaryColorInverted: string;
-}
+const theme = {
+  blueColor: "#3498db"
+};
+export default theme;
